@@ -1,5 +1,5 @@
-@font-face { font-family: 'Handon3gyeopsal300g'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_seven@1.2/Handon3gyeopsal300g.woff') format('woff'); font-weight: normal; font-style: normal; }
-*{font-family:'handon3gyeopsal300g'}
+@font-face { font-family: 'silgothic'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_eight@1.0/silgothic.woff') format('woff'); font-weight: normal; font-style: normal; }
+*{font-family:'silgothic'}
 
 /* 모든 항목 focus시 아웃라인 제거 */
 *:focus { outline: none !important; }
@@ -187,7 +187,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
     border-top: none !important;
 
-    box-shadow: 10px 10px 5px #f00;
+    box-shadow: 7px 7px 3px #4d4d4d60;
 }
 
 
