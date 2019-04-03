@@ -1,5 +1,5 @@
-@font-face { font-family: 'BBTreeGB'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_nine_@1.1/BBTreeGB.woff') format('woff'); font-weight: normal; font-style: normal; }
-*{font-family:'BBTreeGB'}
+@font-face { font-family: 'Handon3gyeopsal300g'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_seven@1.2/Handon3gyeopsal300g.woff') format('woff'); font-weight: normal; font-style: normal; }
+*{font-family:'handon3gyeopsal300g'}
 
 /* 모든 항목 focus시 아웃라인 제거 */
 *:focus { outline: none !important; }
