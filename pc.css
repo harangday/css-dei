@@ -14,11 +14,6 @@
   outline: none !important;
 }
 
-html {
-  background: var(--bg);
-  height: auto;
-}
-
 /*배경 그라데이션*/
 
 body {
