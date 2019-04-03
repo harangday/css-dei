@@ -25,7 +25,7 @@ header .row>div:nth-child(1)>a {
 
     height: 50px;
 
-    background: url() no-repeat; /* url(로고 경로 입력) */
+    background: url(https://upload.tgd.kr/20180707/a09c47633a359226acbd2b4429729bb5.png) no-repeat; /* url(로고 경로 입력) */
 
     background-size: auto 50px;
 
