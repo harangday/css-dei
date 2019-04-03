@@ -188,7 +188,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #board-info #viewers-area #viewers:before {
 
-    content: "트수 ";    /* 숫자 앞에 들어갈 문구 */
+    content: "View ";    /* 숫자 앞에 들어갈 문구 */
 
         /* ex) content: "트수 "; */
 
@@ -202,7 +202,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #board-info #viewers-area #viewers:after {
 
-    content: "명 사찰중";    /* 숫자 뒤에 들어갈 문구 */
+    content: "On!!";    /* 숫자 뒤에 들어갈 문구 */
 
         /* ex) content: "명 접속중"; */
 
