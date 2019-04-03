@@ -1,6 +1,35 @@
 @font-face { font-family: 'NIXGONM-Vb'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/NIXGONM-Vb.woff') format('woff'); font-weight: normal; font-style: normal; }
 *{font-family:'NIXGONM-Vb'}
 
+/* 좌측 배너 이니셜 */
+
+#main .menu-wrapper>a>em {
+
+    color: #66bd63;
+
+}
+
+
+
+/* 좌측 배너 점 */
+
+.fa-square:before {
+
+    color: #66bd63;
+
+}앟
+
+
+/* 상단배너 */
+
+
+header .col-xs-4:after{
+
+content:" "
+
+}
+
+
 /* 배경 */
 
 
