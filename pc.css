@@ -1,5 +1,5 @@
-@font-face { font-family: 'netmarbleL'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_four@1.1/netmarbleL.woff') format('woff'); font-weight: normal; font-style: normal; }
-*{font-family:'netmarbleL'}
+@font-face { font-family: 'BBTreeGR'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_nine_@1.1/BBTreeGR.woff') format('woff'); font-weight: normal; font-style: normal; }
+*{font-family:'BBTreeGR'}
 
 /* 모든 항목 focus시 아웃라인 제거 */
 *:focus { outline: none !important; }
