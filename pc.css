@@ -159,6 +159,13 @@ header #header-bar #header-top-notice strong.notice-badge {
 }
 
 
+#article-list>.article-list-row>.item>.list-title>a:visited {
+
+    color: #4d4d4d; /* 읽은 글 색상 코드 입력 */
+
+}
+
+
 
 /* 메인 배너 */
 
