@@ -4,13 +4,11 @@
 
 body {
 
-    height: auto !important;
-
     background: linear-gradient(to bottom, #f7fcf0, #ccebc5, #a8ddb5);   
  /* 배경색 코드 입력 */
 
         /* ex) background: #ffffff; */
-
+    height: auto;
 }
 
 
