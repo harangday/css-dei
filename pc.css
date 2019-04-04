@@ -1,5 +1,5 @@
-@font-face { font-family: 'yg-jalnan'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_four@1.2/JalnanOTF00.woff') format('woff'); font-weight: normal; font-style: normal; }
-*{font-family:'yg-jalnan'}
+@font-face { font-family: 'BMJUA'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/BMJUA.woff') format('woff'); font-weight: normal; font-style: normal; }
+*{font-family:'BMJUA'}
 
 /* 모든 항목 focus시 아웃라인 제거 */
 *:focus { outline: none !important; }
