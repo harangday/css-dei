@@ -249,6 +249,18 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 }
 
+/* 프로필 사진 좌측으로 배치 */
+
+
+#board-info #board-info-profile-img {
+
+    float: left !important;
+
+    margin-right: 5px;
+
+}
+
+
 
 
 /* 접속자 수 */
