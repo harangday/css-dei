@@ -312,7 +312,7 @@ header #header-bar #header-top-notice strong.notice-badge {
     color: white !important;
     background-color: #b8e186 !important;
     border-color: #b8e186 !important;
-    border-radius: 0;
+    border-radius: 3px;
     transition: 0.2s;
 }
 
