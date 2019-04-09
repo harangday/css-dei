@@ -187,7 +187,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
     border-top: none !important;
 
-    box-shadow: 7px 7px 3px #4d4d4d60;
+    box-shadow: 5px 5px 3px #4d4d4d60;
 }
 
 
@@ -200,7 +200,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
     background: #66bd63; /* 좌측 메뉴 제목 배경 색 */
 
-    border-radius: 5px 5px 0 0;
+    border-radius: 15px 15px 0 0;
 
 }
 
@@ -224,7 +224,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #main .menu-wrapper a:nth-last-child(1) {
 
-    border-radius: 0px 0px 5px 5px;
+    border-radius: 0px 0px 15px 15px;
 
 }
 
