@@ -212,7 +212,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #main .menu-wrapper .spacer {
 
-    background: none;
+    background: #66bd6;
 
 }
 
@@ -319,7 +319,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 .btn:hover,
 .btn:focus {
     color: white !important;
-    background-color: #7fbc41; !important;
+    background-color: #b8e186; !important;
 }
 
 .btn.square {
